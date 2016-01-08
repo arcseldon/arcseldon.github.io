@@ -13,7 +13,7 @@ My primary competencies are:
 * Application Delivery
 * Legacy Project Rescue
 * Consultancy Advice and Training
-* Client list selection
+
 
 ### Client Portfolio
 
