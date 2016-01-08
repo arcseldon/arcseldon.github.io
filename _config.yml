@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/arcseldon/arcseldon.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: arcseldon+getintouch@gmail.com
   facebook:
   flickr:
-  github:
+  github: arcseldon
   instagram:
-  linkedin:
+  linkedin: arcseldon
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: arcseldon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/1882064/arcseldon?tab=profile
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
