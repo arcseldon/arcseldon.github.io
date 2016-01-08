@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 
-Hi, my name is Richard Seldon. As a full-stack software engineer, my primary competency is enabling companies to mitigate risk, reduce costs and realise their business goals. 
-Passionate about technology, and love the work I do. I like to solve the most challenging business and technical problems.
-Like to focus on projects that include the following responsibilities:
+Hi, my name is Richard Seldon. My primary competency is enabling companies to mitigate risk, reduce costs and realise their business goals. 
+I am passionate about technology, and love the work I do which frequently involves solving challenging business and technical problems.
+Put an emphasis on project work which includes:
 
 * Application Delivery
 * Legacy Project Rescue
