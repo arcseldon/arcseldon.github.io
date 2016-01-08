@@ -6,8 +6,7 @@ permalink: /about/
 
 
 Hi, my name is Richard Seldon. My primary competency is enabling companies to mitigate risk, reduce costs and realise their business goals. 
-I am passionate about technology, and love the work I do which frequently involves solving challenging business and technical problems.
-Put an emphasis on project work which includes:
+I am passionate about technology, and love the work I do. Put an emphasis on consulting work which requires:
 
 * Application Delivery
 * Legacy Project Rescue
